@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## International Provenance and Annotation Workshop (IPAW) Series
 
-You can use the [editor on GitHub](https://github.com/pgroth/ipaw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The International Provenance and Annotation Workshop (IPAW) is biannual workshop that is concerned with issues of data provenance, data derivation, and data annotation. It brings together computer scientists from different areas and provenance users to discuss open problems related to the provenance of computation and non-computational artifacts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* IPAW'16, McLean, Virginia, USA
+* IPAW'14, Cologne, Germany
+* IPAW'12, Santa-Barbara, California
+* IPAW'10, Troy, New-York
+* IPAW'08, Salt-Lake City, Utah
+* IPAW'06, Chicago, Illinois
+* Data Provenance and Annotation 2003, Edinburgh, Scotland
+* Workshop on Data Derivation and Provenance 2002, Chicago, Illinois
+ 
 
-### Markdown
+The IPAW Steering Committee
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The IPAW Steering Committee consists of previous organizers of the IPAW workshop.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pgroth/ipaw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Ian Foster	Argonne National Laboratory
+* Juliana Freire	Polytechnic Institute of New York University
+* James Frew	University of California, Santa Barbara
+* Paul Groth (chair)	VU University Amsterdam
+* Bertram Ludaescher	University of California, Davis
+* Deborah McGuinness	Rensselaer Polytechnic Institute
+* Beth Plale	Indiana University Bloomington
+* Luc Moreau (emertius chair)	University of Southampton
