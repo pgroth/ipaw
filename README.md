@@ -30,5 +30,5 @@ The IPAW Steering Committee consists of previous organizers of the IPAW workshop
 * Beth Plale	- Indiana University Bloomington
 
 Past Board Members
-* Luc Moreau (emertius chair)	University of Southampton
+* Luc Moreau (emeritus chair)	University of Southampton
 * Ian Foster	-The University of Chicago
