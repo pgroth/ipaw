@@ -9,7 +9,7 @@ The International Provenance and Annotation Workshop (IPAW) is biannual workshop
 * IPAW'08, Salt-Lake City, Utah
 * IPAW'06, Chicago, Illinois
 * Data Provenance and Annotation 2003, Edinburgh, Scotland
-* (http://www.ipaw.info/chicago02/position_papers.html)[Workshop on Data Derivation and Provenance 2002, Chicago, Illinois]
+* [Workshop on Data Derivation and Provenance 2002, Chicago, Illinois](http://www.ipaw.info/chicago02/position_papers.html)
  
 
 The IPAW Steering Committee
