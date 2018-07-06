@@ -20,7 +20,7 @@ The IPAW Steering Committee consists of previous organizers of the IPAW workshop
 
 * Marta Mattoso - Federal University Rio de Janeiro
 * Boris Glavic - Illinois Institute of Technology
-* Adriane Chapman - MITRE
+* Adriane Chapman - University of Southampton
 * Andreas Schreiber - DLR
 * Juliana Freire	- Polytechnic Institute of New York University
 * James Frew	- University of California, Santa Barbara
