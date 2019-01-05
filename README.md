@@ -24,7 +24,7 @@ The IPAW Steering Committee consists of previous organizers of the IPAW workshop
 * Andreas Schreiber - DLR
 * Juliana Freire	- Polytechnic Institute of New York University
 * James Frew	- University of California, Santa Barbara
-* Paul Groth (chair)	- Elsevier Labs
+* Paul Groth (chair)	- University of Amsterdam
 * Bertram Ludaescher	- University of Illinois at Urbana-Champaign
 * Deborah McGuinness	- Rensselaer Polytechnic Institute
 * Beth Plale	- Indiana University Bloomington
