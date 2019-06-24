@@ -18,6 +18,7 @@ The International Provenance and Annotation Workshop (IPAW) is biannual workshop
 The IPAW Steering Committee consists of previous organizers of the IPAW workshop.
 
 
+* Khalid Belhajjame - University Paris-Dauphine
 * Ashish Gehani - SRI International
 * Marta Mattoso - Federal University Rio de Janeiro
 * Boris Glavic - Illinois Institute of Technology
