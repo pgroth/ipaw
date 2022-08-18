@@ -21,7 +21,8 @@ The proceedings for IPAW have been published by Springer since 2008. You can fin
 
 The IPAW Steering Committee consists of previous organizers of the IPAW workshop.
 
-
+* Thomas Moyer - University of North Carolina at Charlotte
+* Vanessa Braganholo - Universidade Federal Fluminense, Brazil
 * Khalid Belhajjame - University Paris-Dauphine
 * Ashish Gehani - SRI International
 * Marta Mattoso - Federal University Rio de Janeiro
