@@ -2,9 +2,10 @@
 
 The International Provenance and Annotation Workshop (IPAW) is biannual workshop that is concerned with issues of data provenance, data derivation, and data annotation. It brings together computer scientists from different areas and provenance users to discuss open problems related to the provenance of computation and non-computational artifacts.
 
-The proceedings for IPAW have been published by Springer since 2008. You can find them here: [https://link.springer.com/conference/ipaw]( https://link.springer.com/conference/ipaw). Proceedings in 2023 are part of the WebConf satellite proceedings.
+The proceedings for IPAW have been published by Springer since 2008. You can find them here: [https://link.springer.com/conference/ipaw]( https://link.springer.com/conference/ipaw). [Proceedings in 2023](https://dl.acm.org/doi/proceedings/10.1145/3543873?tocHeading=heading29) are part of the WebConf satellite proceedings. The [proceedings in 2025](https://dl.acm.org/doi/proceedings/10.1145/3736229) are part of the SIGMOD satellite proceedings.
 
-* [IPAW'23, Austin, Texas](https://provenanceweek.github.io/ProvenanceWeek2023/)
+* [IPAW'25, Berlin, Germany](https://ucdbg.github.io/ProvenanceWeek2025/) 
+* [IPAW'23, Austin, Texas](https://provenanceweek.github.io/ProvenanceWeek2023/) 
 * [IPAW'21, Charlotte, North Carolina](https://iitdbgroup.github.io/ProvenanceWeek2021/ipaw.html)
 * [IPAW'20, Charlotte, North Carolina](https://iitdbgroup.github.io/ProvenanceWeek2020/ipaw.html)
 * [IPAW'18, London, UK](http://provenanceweek2018.org)
@@ -22,6 +23,7 @@ The proceedings for IPAW have been published by Springer since 2008. You can fin
 
 The IPAW Steering Committee consists of previous organizers of the IPAW workshop.
 
+* Tanja Auge - University of Regensburg
 * Thomas Moyer - University of North Carolina at Charlotte
 * Vanessa Braganholo - Universidade Federal Fluminense, Brazil
 * Khalid Belhajjame - University Paris-Dauphine
